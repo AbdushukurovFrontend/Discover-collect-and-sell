@@ -187,6 +187,11 @@ ul {
     margin-top: 10px;
   }
 }
+@media screen and (max-width: 380px) {
+  .title {
+    width: 370px;
+  }
+}
 .nft_main {
   display: flex;
   justify-content: space-between;
